@@ -5,3 +5,6 @@
 /.vs
 /AndyServices/.vs/AndyServices/v17
 /src/.vs/AndyServices/v17
+/src/.vs/AndyServices/config
+/src/Services/Catalog/Catalog.API/bin/Debug/net6.0
+/src/Services/Catalog/Catalog.API/obj
