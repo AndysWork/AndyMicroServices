@@ -13,3 +13,5 @@
 /src/.vs/AndyServices/FileContentIndex
 /src/obj
 /src/bin/Debug
+/src/Services/Basket/Basket.API/obj
+/src/Services/Basket/Basket.API/bin/Debug/net6.0
