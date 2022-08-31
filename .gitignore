@@ -15,3 +15,6 @@
 /src/bin/Debug
 /src/Services/Basket/Basket.API/obj
 /src/Services/Basket/Basket.API/bin/Debug/net6.0
+/src/Services/Discount/Discount.API/obj
+/src/Services/Discount/Discount.API/bin/Debug/net6.0
+/src/Services/Discount/Discount.API/Discount.API.csproj.user
